@@ -20,6 +20,8 @@ This repository contains the code and slides for our workshop on data collection
 | 12:45 | Inference with LLM-collected data    | [`python`](./notebooks/llm_inference_py.ipynb), [`R`](./notebooks/llm_inference_R.ipynb)     |
 | 13:45 | Conclusion & Q&A                     |                                                                                              |
 
+Methods and software for inference with measurement error correction: [sodascience/social_science_inferences_with_llms](https://github.com/sodascience/social_science_inferences_with_llms).
+
 ## Contact
 
 This project is developed and maintained by the [ODISSEI Social Data Science (SoDa)](https://odissei-soda.nl/) team.
