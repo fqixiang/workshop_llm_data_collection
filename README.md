@@ -2,6 +2,8 @@
 
 This repository contains the code and slides for our workshop on data collection and inference with Large Language Models. More information & sign-up can be found on the website [here](https://odissei-data.nl/event/workshop-llm/).
 
+<img src="img/llm_data_collection.png" alt="SoDa logo" width="100%"/>
+
 ## Technical details
 - No previous experience with LLMs is required
 - Participants should be able to understand and write `R` or `python` code
