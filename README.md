@@ -15,7 +15,7 @@ This repository contains the code and slides for our workshop on data collection
 | :---- | :----------------------------------- | :------------------------------------------------------------------------------------------- |
 | 09:30 | LLM fundamentals for Social Sciences | [`slides`](./slides/llm_workshop_slides.pdf)                                                 |
 | 10:15 | Coffee break                         | Coffee is provided!                                                                          |
-| 10:30 | Data collection with LLMs            | [`python`](./notebooks/data_collection_py.ipynb), [`R`](./notebooks/data_collection_R.ipynb) |
+| 10:30 | Data collection with LLMs            | [`python`](./notebooks/llm_data_collection_py.ipynb), [`R`](./notebooks/llm_data_collection_R.ipynb) |
 | 12:00 | Break                                | Lunch is provided!                                                                           |
 | 12:45 | Inference with LLM-collected data    | [`python`](./notebooks/llm_inference_py.ipynb), [`R`](./notebooks/llm_inference_R.ipynb)     |
 | 13:45 | Conclusion & Q&A                     |                                                                                              |
