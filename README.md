@@ -10,6 +10,7 @@ This repository contains the code and slides for our workshop on data collection
 - In python we will use [`langchain`](https://python.langchain.com/docs/introduction/), in R we will use [`ellmer`](https://ellmer.tidyverse.org/) to interact with LLMs
 
 ## Schedule
+
 | Time  | Title                                | Required resource                                                                            |
 | :---- | :----------------------------------- | :------------------------------------------------------------------------------------------- |
 | 09:30 | LLM fundamentals for Social Sciences | [`slides`](./slides/llm_workshop_slides.pdf)                                                 |
