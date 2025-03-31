@@ -1,6 +1,10 @@
 # Workshop Data Collection with LLMs in Social Sciences
 
-This repository contains the code and slides for our workshop on data collection and inference with Large Language Models. More information & sign-up can be found on the website [here](https://odissei-data.nl/event/workshop-llm/).
+This repository contains the code and slides for our workshop on data collection and inference with Large Language Models. The materials on this page are [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
+
+![cc](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![by](https://mirrors.creativecommons.org/presskit/icons/by.svg)
+
+More information & sign-up can be found on the website [here](https://odissei-data.nl/event/workshop-llm/).
 
 <img src="img/llm_data_collection.png" alt="SoDa logo" width="100%"/>
 
