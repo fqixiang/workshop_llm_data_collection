@@ -4,7 +4,7 @@ This repository contains the code and slides for our workshop on data collection
 
 ![cc](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![by](https://mirrors.creativecommons.org/presskit/icons/by.svg)
 
-More information & sign-up can be found on the website [here](https://odissei-data.nl/event/workshop-llm/).
+More information can be found on the website [here](https://sodascience.github.io/workshop_llm_data_collection/).
 
 <img src="img/llm_data_collection.png" alt="SoDa logo" width="100%"/>
 
