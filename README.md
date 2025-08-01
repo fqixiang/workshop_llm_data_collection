@@ -1,5 +1,7 @@
 # Workshop Data Collection with LLMs in Social Sciences
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16631539.svg)](https://doi.org/10.5281/zenodo.16631539)
+
 This repository contains the code and slides for our workshop on data collection and inference with Large Language Models. The materials on this page are [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
 
 ![cc](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![by](https://mirrors.creativecommons.org/presskit/icons/by.svg)
