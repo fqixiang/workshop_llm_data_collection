@@ -16,8 +16,8 @@ More information can be found on the website [here](https://sodascience.github.i
 - In python we will use [`langchain`](https://python.langchain.com/docs/introduction/), in R we will use [`ellmer`](https://ellmer.tidyverse.org/) to interact with LLMs
 
 ## Slides
-[`Full workshop slides`](./slides/soda_llm_workshop_slides.pdf)
-[`ODISSEI 2025 workshop slides`](./slides/soda_llm_workshop_odissei_25_slides.pdf)
+- [`Full workshop slides`](./slides/soda_llm_workshop_slides.pdf)
+- [`ODISSEI 2025 workshop slides`](./slides/soda_llm_workshop_odissei_25_slides.pdf)
 
 ## Schedule
 
