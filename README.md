@@ -21,7 +21,7 @@ More information can be found on the website [here](https://sodascience.github.i
 
 ## Full Workshop Schedule
 
-| Time  | Title                                | Required resource                                                                            |
+| Time  | Title                                | Resource                                                                            |
 | :---- | :----------------------------------- | :------------------------------------------------------------------------------------------- |
 | 09:30 | LLM fundamentals for Social Sciences |                                                  |
 | 10:15 | Coffee break                         | Coffee is provided!                                                                          |
