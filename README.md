@@ -15,11 +15,15 @@ More information can be found on the website [here](https://sodascience.github.i
 - Participants should be able to understand and write `R` or `python` code
 - In python we will use [`langchain`](https://python.langchain.com/docs/introduction/), in R we will use [`ellmer`](https://ellmer.tidyverse.org/) to interact with LLMs
 
-## Schedule
+## Slides
+- [`Full workshop slides`](./slides/soda_llm_workshop_slides.pdf)
+- [`ODISSEI 2025 workshop slides`](./slides/soda_llm_workshop_odissei_25_slides.pdf)
 
-| Time  | Title                                | Required resource                                                                            |
+## Full Workshop Schedule
+
+| Time  | Title                                | Resource                                                                            |
 | :---- | :----------------------------------- | :------------------------------------------------------------------------------------------- |
-| 09:30 | LLM fundamentals for Social Sciences | [`slides`](./slides/llm_workshop_slides.pdf)                                                 |
+| 09:30 | LLM fundamentals for Social Sciences |                                                  |
 | 10:15 | Coffee break                         | Coffee is provided!                                                                          |
 | 10:30 | Data collection with LLMs            | [`python`](https://colab.research.google.com/github/sodascience/workshop_llm_data_collection/blob/main/notebooks/llm_data_collection_py.ipynb), [`R`](https://colab.research.google.com/github/sodascience/workshop_llm_data_collection/blob/main/notebooks/llm_data_collection_R.ipynb) |
 | 12:00 | Break                                | Lunch is provided!                                                                           |
