@@ -20,7 +20,7 @@ More information can be found on the website [here](https://sodascience.github.i
 
 ## Slides
 - Full workshop slides: [`Download`](./slides/soda_llm_workshop_slides.pdf)
-- ODISSEI 2025 workshop slides[`Download`](./slides/soda_llm_workshop_odissei_25_slides.pdf)
+- ODISSEI 2025 workshop slides: [`Download`](./slides/soda_llm_workshop_odissei_25_slides.pdf)
 
 ## Full Workshop Schedule
 
