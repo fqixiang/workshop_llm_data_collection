@@ -15,12 +15,12 @@ More information can be found on the website [here](https://sodascience.github.i
 - `R` or `python` programming knowledge is desired but not required.
 - In python we will use [`langchain`](https://python.langchain.com/docs/introduction/), in R we will use [`ellmer`](https://ellmer.tidyverse.org/) to interact with LLMs.
 
-## Tutorial Paper
-- [`Download`](./llm_social_science_paper.pdf)
-
 ## Slides
 - Full workshop slides (v2026.01.23): [`Download`](./slides/soda_llm_workshop_slides.pdf)
 - ODISSEI 2025 workshop slides: [`Download`](./slides/soda_llm_workshop_odissei_25_slides.pdf)
+
+## Tutorial Paper
+- [`Download`](./llm_social_science_paper.pdf)
 
 ## Full Workshop Schedule
 
