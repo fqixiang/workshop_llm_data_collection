@@ -15,6 +15,19 @@ More information can be found on the website [here](https://sodascience.github.i
 - `R` or `python` programming knowledge is desired but not required.
 - In python we will use [`langchain`](https://python.langchain.com/docs/introduction/), in R we will use [`ellmer`](https://ellmer.tidyverse.org/) to interact with LLMs.
 
+## Preparation (API keys)
+You will need an API key for each provider you plan to use.
+
+- **Hugging Face Inference API (recommended):**
+	1. Create an account at https://huggingface.co/.
+	2. Go to https://huggingface.co/settings/tokens and create a new access token.
+
+- **OpenAI (optional):**
+	1. Create an account at https://platform.openai.com/.
+	2. Create an API key at https://platform.openai.com/api-keys.
+
+Save your API keys in a safe place. The notebooks will prompt you to enter the keys at runtime.
+
 ## Slides
 - Full workshop slides (v2026.01.23): [`Download`](./slides/soda_llm_workshop_slides.pdf)
 - ODISSEI 2025 workshop slides: [`Download`](./slides/soda_llm_workshop_odissei_25_slides.pdf)
@@ -34,6 +47,20 @@ More information can be found on the website [here](https://sodascience.github.i
 | 14:30 | Conclusion & Q&A                     |                                                                                              |
 
 Methods and software for inference with measurement error correction: [sodascience/social_science_inferences_with_llms](https://github.com/sodascience/social_science_inferences_with_llms).
+
+## Run locally with uv
+If you plan to run the notebooks locally, we recommend using [`uv`](https://github.com/astral-sh/uv) to set up a clean Python environment. You can also use `uv` to launch Jupyter Lab or Notebook.
+
+1. Clone the repository:
+	- `git clone https://github.com/sodascience/workshop_llm_data_collection.git`
+	- `cd workshop_llm_data_collection`
+2. Create and sync the environment:
+	- `uv venv`
+	- `uv sync`
+3. Start Jupyter:
+	- `uv run jupyter lab`  (or `uv run jupyter notebook`)
+
+If you use a different environment manager, make sure the dependencies in `pyproject.toml` are installed before running the notebooks.
 
 ## Contact
 
