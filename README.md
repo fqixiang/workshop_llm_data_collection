@@ -1,8 +1,8 @@
-# Workshop Data Collection with LLMs in Social Sciences
+# Workshop Data Collection/Annotation & Inferences with LLMs in Social Sciences
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16631539.svg)](https://doi.org/10.5281/zenodo.16631539)
 
-This repository contains the code and slides for our workshop on data collection and inference with Large Language Models. The materials on this page are [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
+This repository contains the code and slides for our workshop on data collection/annotation and inference with Large Language Models. The materials on this page are [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
 
 ![cc](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![by](https://mirrors.creativecommons.org/presskit/icons/by.svg)
 
@@ -40,12 +40,6 @@ Save your API keys in a safe place. The notebooks will prompt you to enter the k
 - Full workshop slides (v2026.01.23): [`Download`](./slides/soda_llm_workshop_slides.pdf)
 - ODISSEI 2025 workshop slides: [`Download`](./slides/soda_llm_workshop_odissei_25_slides.pdf)
 
-## Tutorial Paper
-- [`A Methodological Guide on Using Large Language Models for Text Annotation in the Social Sciences and Humanities with Python and R`](https://arxiv.org/abs/2604.09638)
-
-## Guide to LLM Computing Infrastructure in the Netherlands
-- [Link](https://sodascience.github.io/soda_llm_infra_guide/)
-
 ## Full Workshop Schedule
 
 | Time  | Title                                | Resource                                                                            |
@@ -59,8 +53,17 @@ Save your API keys in a safe place. The notebooks will prompt you to enter the k
 
 Methods and software for inference with measurement error correction: [sodascience/social_science_inferences_with_llms](https://github.com/sodascience/social_science_inferences_with_llms).
 
-## Run locally with uv and Python
-If you plan to run the notebooks locally, we recommend using [`uv`](https://github.com/astral-sh/uv) to set up a clean Python environment. You can also use `uv` to launch Jupyter Lab or Notebook.
+## Additional Resources
+### Tutorial Paper
+Read and cite our tutorial paper (preprint):
+- Fang, Q., Bernardo, J. G., & van Kesteren, E. J. (2026). A Methodological Guide on Using Large Language Models for Text Annotation in the Social Sciences and Humanities with Python and R. arXiv preprint arXiv:2604.09638.
+- [`Download`](https://arxiv.org/abs/2604.09638) from arXiv
+
+### Guide to LLM Computing Infrastructure in the Netherlands
+- [Link](https://sodascience.github.io/soda_llm_infra_guide/)
+
+## [Optional] Run Locally with uv and Python
+If you plan to run the Python notebooks locally, we recommend using [`uv`](https://github.com/astral-sh/uv) to set up a clean Python environment. You can also use `uv` to launch Jupyter Lab or Notebook.
 
 1. Clone the repository:
 	- `git clone https://github.com/sodascience/workshop_llm_data_collection.git`
