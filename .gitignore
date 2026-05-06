@@ -165,3 +165,6 @@ logs/
 # mlruns
 mlruns/
 mlflow.db
+
+# DS_Store
+.DS_Store
