@@ -168,4 +168,8 @@ mlflow.db
 
 # DS_Store
 .DS_Store
+
+# R
 .Rproj.user
+.Rhistory
+.RData
